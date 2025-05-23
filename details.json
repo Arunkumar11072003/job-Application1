@@ -1,0 +1,112 @@
+{
+  "arr": [
+    {
+      "name": "Sathish",
+      "department": "Computer Science",
+      "DOB": "2004-10-23",
+      "mail": "sathishgmail.com",
+      "number": "7461838531",
+      "address": "Attur,Salem",
+      "id": "1"
+    },
+    {
+      "name": "Arun",
+      "department": "Mechanical Engineering",
+      "DOB": "2003-07-10",
+      "mail": "arungmail.com",
+      "number": "7460838531",
+      "address": "Salem",
+      "id": "2"
+    },
+    {
+      "name": "Suresh N",
+      "department": "Electrical Engineering",
+      "DOB": "10.10.2000",
+      "mail": "sureshgmail.com",
+      "number": "7465838931",
+      "address": "Salem",
+      "id": "3"
+    },
+    {
+      "name": "Praveen N",
+      "department": "Electrical Engineering",
+      "DOB": "11.08.1998",
+      "mail": "praveengmail.com",
+      "number": "7466838431",
+      "address": "Salem",
+      "id": "4"
+    },
+    {
+      "name": "Nandini P",
+      "department": "Bio Technology",
+      "DOB": "31.12.2002",
+      "mail": "nandinigmail.com",
+      "number": "7465838433",
+      "address": "Attur",
+      "id": "5"
+    },
+    {
+      "name": "Tamil",
+      "department": "Computer Science",
+      "DOB": "2000-01-10",
+      "mail": "tamilgmail.com",
+      "number": "7485838431",
+      "address": "Attur",
+      "id": "6"
+    },
+    {
+      "name": "Madhu S",
+      "department": "Bio Technology",
+      "DOB": "2004-12-11",
+      "mail": "madhugmail.com",
+      "number": "7465838481",
+      "address": "Attur",
+      "id": "7"
+    },
+    {
+      "name": "Karthick ",
+      "department": "Computer Science",
+      "DOB": "1997-07-12",
+      "mail": "karthickgmail.com",
+      "number": "7464838431",
+      "address": "Attur",
+      "id": "8"
+    },
+    {
+      "name": "Kavin S",
+      "department": "Computer Science",
+      "DOB": "2001-05-09",
+      "mail": "kavingmail.com",
+      "number": "7460838431",
+      "address": "Attur",
+      "id": "9"
+    },
+    {
+      "name": "Arul S",
+      "department": "Electronics & Communication",
+      "DOB": "1999-02-18",
+      "mail": "arulgmail.com",
+      "number": "9784756565",
+      "address": "Attur",
+      "id": "10"
+    },
+    {
+      "name": "Arunkumar S",
+      "department": "Mechanical Engineering",
+      "DOB": "2003-07-11",
+      "mail": "arunkumargmail.com",
+      "number": "8532489152",
+      "address": "Attur",
+      "id": "11"
+    },
+    {
+      "name": "sanjay S",
+      "department": "Mechanical Engineering",
+      "DOB": "2000-06-07",
+      "mail": "sanjai@gmil.com",
+      "number": "9123467534",
+      "address": "Salem",
+      "id": "12"
+    }
+  ]
+}

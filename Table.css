@@ -1,0 +1,68 @@
+.table-container {
+    margin: 20px;
+  }
+  .simple-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .simple-table th, .simple-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .simple-table th {
+    background-color: #f2f2f2;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+  }
+  .sort{
+    padding: opx 0px;
+    margin: 0px;
+    cursor: pointer;
+    width: 10px;
+    background-color:#f2f2f2;
+    text-align: "center";
+    border: none;
+   
+  }
+  .sort:hover{
+    background-color: #f2f2f2;
+    color:aqua
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 20px;
+    cursor: pointer;
+    width: 100px;
+    background-color: rgb(174, 174, 230);
+    text-align: "center";
+    
+    
+  }
+  button:hover{
+    background-color: rgb(84, 84, 234);
+  }
+  
+  .addstudent:hover{
+        background-color: rgb(149, 149, 238);
+  }
+  .search{
+    background-color: rgb(56, 56, 241);
+   margin-left: 150px;
+  }
+  .searchDepartment{
+    margin-left:500px ;
+    margin-top: -50px;
+   
+  }
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center; /* Ensure text is centered */
+  }
+ 

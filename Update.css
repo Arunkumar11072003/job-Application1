@@ -1,0 +1,47 @@
+#login {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d4c1c1;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+
+  form {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 30px; 
+    justify-content: center; 
+    align-items: center; 
+    width: 100%;}
+
+    form div {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center labels and inputs */
+      
+      }
+
+      label {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 5px;
+        text-align: center; /* Center the text */
+        width: 100%; /* Make sure label takes full width */
+      }
+      form {
+        width: 100%;
+        max-width: 100%;
+      }
+      input{
+        width: 250px;
+        align-items: center;
+      }
+      lable{
+        margin-left: 10px;
+      }
+      .Update button{
+        margin-left: 10px;
+      }
